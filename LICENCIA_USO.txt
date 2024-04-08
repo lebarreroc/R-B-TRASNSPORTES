@@ -1,0 +1,24 @@
+Licencia de Uso
+
+Este software está licenciado bajo los términos y condiciones de la Licencia de Uso de Proyecto Abierto (LU-PA), versión 1.0.
+
+Términos y Condiciones
+
+1. Uso del Software: El presente software puede ser utilizado por cualquier persona o entidad con el fin de desarrollar, ejecutar y distribuir proyectos informáticos sin fines de lucro o comerciales.
+
+2. Modificación: Los usuarios tienen el derecho de modificar, adaptar y mejorar este software para satisfacer sus necesidades específicas, siempre y cuando respeten los derechos del autor y mantengan la atribución de la autoría original.
+
+3. Distribución: Se permite la distribución gratuita o comercial de este software, siempre y cuando se incluya una copia de esta licencia junto con cualquier copia del software distribuido y se proporcione atribución adecuada a los autores originales.
+
+4. Atribución: Al utilizar este software, los usuarios deben proporcionar atribución adecuada a los autores originales del proyecto. La atribución debe incluir los nombres de Luis Barrero como Analista Líder, Juan Pablo Amaya como Analista Técnico, el Centro de Formación CESDE y la clase de Nuevas Tecnologías de la Información.
+
+5. Limitación de Responsabilidad: Los autores de este software no asumen ninguna responsabilidad por daños directos, indirectos, incidentales, especiales, ejemplares o consecuenciales que resulten del uso o la imposibilidad de uso de este software.
+
+6. Renuncia de Garantía: Este software se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita, incluyendo, pero no limitado a, las garantías de comerciabilidad, idoneidad para un propósito particular y no infracción.
+
+7. Aceptación de Términos: El uso de este software implica la aceptación de todos los términos y condiciones establecidos en esta licencia.
+
+8. Terminación de la Licencia: Esta licencia se considerará terminada automáticamente si el usuario no cumple con cualquiera de los términos y condiciones establecidos en la misma. En caso de terminación, el usuario debe cesar inmediatamente todo uso y distribución del software.
+
+Derechos de Autor © [Año]
+Los autores originales de este software son Luis Barrero, Juan Pablo Amaya y el Centro de Formación CESDE, en el marco de la clase de Nuevas Tecnologías de la Información.
