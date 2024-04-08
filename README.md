@@ -17,21 +17,23 @@ El proyecto "Transportes R&B Limitada Página Web" tiene como objetivo desarroll
 
 2. Accede al directorio del proyecto:
    ```
-   cd transportes-rb-limitada-web
+   SIN-ESPECIFICAR AÚN # 08/04/2024
    ```
 
 3. Instala las dependencias del proyecto utilizando el gestor de paquetes que prefieras (npm, yarn, etc.):
    ```
-   npm install
+    SIN-ESPECIFICAR AÚN # 08/04/2024
    ```
 
 4. Inicia el servidor local:
    ```
-   npm start
+   SIN-ESPECIFICAR AÚN # 08/04/2024
    ```
 
 5. Abre tu navegador web y visita `http://localhost:3000` para ver la página web en funcionamiento.
-
+  ```
+   SIN-ESPECIFICAR AÚN # 08/04/2024
+   ```
 ---
 
 **Estructura del Proyecto:**
@@ -66,12 +68,12 @@ El proyecto "Transportes R&B Limitada Página Web" tiene como objetivo desarroll
 ---
 
 **Licencia:**
-Este proyecto está bajo la Licencia de Luis E Barrero Analista lider/ Juan P Amaya Analista. Consulta el archivo LICENSE.md para obtener más detalles.
+Este proyecto está bajo la Licencia de Luis E Barrero Analista lider/ Juan P Amaya Analista. Consulta el archivo LICENSE.TXT para obtener más detalles.
 
 ---
 
 **Contacto:**
-Para cualquier pregunta o comentario, no dudes en ponerte en contacto con nosotros a través de [correo electrónico o página web].
+Para cualquier pregunta o comentario, no dudes en ponerte en contacto con nosotros a través de los correos lebarreroc@gmail.com y juanpamayadev@gmail.com
 
 ---
 
@@ -79,5 +81,3 @@ Para cualquier pregunta o comentario, no dudes en ponerte en contacto con nosotr
 Agradecemos a todos los miembros del equipo de desarrollo por su contribución a este proyecto. Sin su arduo trabajo y dedicación, este proyecto no sería posible.
 
 ---
-
-Este archivo README proporciona una descripción general del proyecto, instrucciones de instalación, estructura del proyecto, información sobre cómo contribuir, requisitos del sistema, autoría, licencia, contacto y agradecimientos. Siéntete libre de actualizar este archivo según sea necesario para reflejar los cambios y detalles específicos del proyecto.
