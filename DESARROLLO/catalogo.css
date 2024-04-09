@@ -1,0 +1,40 @@
+.catalogo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.producto {
+    width: calc(25% - 20px);
+    margin-bottom: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.producto img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.detalles {
+    display: none;
+}
+
+
+@media screen and (max-width: 768px) {
+    .producto {
+        width: calc(33.33% - 20px);
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .producto {
+        width: calc(50% - 20px);
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .producto {
+        width: calc(100% - 20px);
+    }
+}
