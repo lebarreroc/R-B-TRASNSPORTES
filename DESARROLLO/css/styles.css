@@ -135,41 +135,10 @@ footer {
     text-decoration: none;
 }
 
-.galeria {
-    position: relative;
-    max-width: 800px;
-    margin: 20px auto; 
-    overflow: hidden;
-}
-
-.carrusel {
-    display: flex;
-    transition: transform 0.5s ease;
-    margin: 0; 
-    margin-bottom: 70px;
-}
-
-
-.carrusel img {
-    width: 100%; 
-    height: 100%; 
+.carousel-item img {
+    height: 50em; 
     object-fit: cover; 
 }
-
-.carrusel {
-    display: flex;
-    transition: transform 0.5s ease;
-    overflow-x: auto; 
-    padding: 30px; 
-    margin-bottom: 70px;
-}
-
-.carrusel img {
-    max-width: 200%; 
-    height: auto; 
-}
-
-
 button.prev,
 button.next {
     position: absolute;
